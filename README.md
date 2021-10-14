@@ -1,4 +1,6 @@
-### Hi there 👋
+### Kenneth Tang
+## Developer. Designer. Data Scientist.
+Welcome to my profile.
 
 <!--
 **Kenny477/Kenny477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
