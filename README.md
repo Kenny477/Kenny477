@@ -1,5 +1,5 @@
 ### Kenneth Tang
-## Developer. Designer. Data Scientist.
+**Developer. Designer. Data Scientist.**
 Welcome to my profile.
 
 <!--
