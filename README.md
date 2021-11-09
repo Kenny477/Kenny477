@@ -1,39 +1,25 @@
 ### Kenneth Tang
 **Developer. Designer. Data Scientist.**
 
-Hi! I'm Kenny. I've dabbled in all sorts of skills ranging from UI/UX design to data science to full-stack development.
+Hi! I'm Kenny. I dabble in all sorts of things ranging from UI/UX design to data science to full-stack development.
 
 Areas of computing I'm currently focusing on include NLP (natural language processing), CV (computer vision), prediction models, web scraping, and cybersecurity.
 
 #### Languages
-Expert ⭐⭐⭐⭐⭐
-- Python
-
-Advanced ⭐⭐⭐⭐
-- Java 
-- HTML/CSS
-
-Intermediate ⭐⭐⭐
-- JavaScript
-
-Beginner ⭐⭐
-- C++
-
-Learning ⭐
-- Go
-- R
+Proficiency               |  Language
+--------------------------|------------
+Expert ⭐⭐⭐⭐⭐      | Python
+Advanced ⭐⭐⭐⭐       | Java <br> HTML/CSS
+Intermediate ⭐⭐⭐     | JavaScript
+Beginner ⭐⭐            | C++
+Learning ⭐              | Go <br> R
 
 
-##### Tools
-Advanced ⭐⭐⭐⭐
-- Git
-- Bash
-
-Intermediate⭐⭐⭐
-- Node JS
-- React JS
-- Tailwind CSS
-- AWS
+#### Tools
+Proficiency               |  Tool
+--------------------------|------------
+Advanced ⭐⭐⭐⭐       | Git <br> Bash
+Intermediate⭐⭐⭐       | Node JS <br> React JS <br> Tailwind CSS <br> AWS
 
 
 <!--
