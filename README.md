@@ -1,7 +1,40 @@
 ### Kenneth Tang
 **Developer. Designer. Data Scientist.**
 
-Welcome to my profile.
+Hi! I'm Kenny. I've dabbled in all sorts of skills ranging from UI/UX design to data science to full-stack development.
+
+Areas of computing I'm currently focusing on include NLP (natural language processing), CV (computer vision), prediction models, web scraping, and cybersecurity.
+
+#### Languages
+Expert ⭐⭐⭐⭐⭐
+- Python
+
+Advanced ⭐⭐⭐⭐
+- Java 
+- HTML/CSS
+
+Intermediate ⭐⭐⭐
+- JavaScript
+
+Beginner ⭐⭐
+- C++
+
+Learning ⭐
+- Go
+- R
+
+
+##### Tools
+Advanced ⭐⭐⭐⭐
+- Git
+- Bash
+
+Intermediate⭐⭐⭐
+- Node JS
+- React JS
+- Tailwind CSS
+- AWS
+
 
 <!--
 **Kenny477/Kenny477** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
