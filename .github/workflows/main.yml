@@ -20,4 +20,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_PROJECTS: "False"
-          
+          SHOW_OS: "False"
