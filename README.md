@@ -1,6 +1,10 @@
 ### Kenneth Tang
 **Developer. Designer. Data Scientist.**
 
+Full-stack developer with experience in data science, cybersecurity, and machine learning.
+
+Contact me at <kenneth.j.tang@gmail.com> for any business inquiries.
+
 <!-- [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny477)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
