@@ -10,32 +10,9 @@ Contact me at <kenneth.j.tang@gmail.com> for any business inquiries.
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    70 commits     █████░░░░░░░░░░░░░░░░░░░░   21.47% 
-🌆 Daytime    122 commits    █████████░░░░░░░░░░░░░░░░   37.42% 
-🌃 Evening    110 commits    ████████░░░░░░░░░░░░░░░░░   33.74% 
-🌙 Night      24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.36%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
-Tuesday      88 commits     ██████░░░░░░░░░░░░░░░░░░░   26.99% 
-Wednesday    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.34% 
-Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5% 
-Saturday     21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
-Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.51%
-
-```
-
 
 📊 **This Week I Spent My Time On** 
 
