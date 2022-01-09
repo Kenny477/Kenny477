@@ -19,7 +19,7 @@ Full-stack developer with experience in data science, cybersecurity, and machine
 ![Express.js](https://img.shields.io/badge/express.js-black.svg?style=for-the-badge&logo=express&logoColor=white)
 
 ##### Data Science
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-black.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ##### OOP
