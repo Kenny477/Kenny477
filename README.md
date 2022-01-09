@@ -12,7 +12,6 @@ Hi! I'm Kenny, a full-stack developer with experience in data science, machine l
 ![Svelte](https://img.shields.io/badge/svelte-black.svg?style=for-the-badge&logo=svelte&logoColor=white)
 <br>
 ![CSS](https://img.shields.io/badge/css-black.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
