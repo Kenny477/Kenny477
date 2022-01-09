@@ -46,8 +46,6 @@ Hi! I'm Kenny, a full-stack developer with experience in data science, machine l
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2057%20mins-blue)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
