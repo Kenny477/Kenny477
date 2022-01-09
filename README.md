@@ -5,6 +5,12 @@ Full-stack developer with experience in data science, cybersecurity, and machine
 
 Contact me at <kenneth.j.tang@gmail.com> for any business inquiries.
 
+#### Languages
+<img h="50" w="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
+<img h="50" w="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
+
+
 <!-- [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny477)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
