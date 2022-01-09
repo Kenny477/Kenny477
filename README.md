@@ -1,7 +1,7 @@
 ### Kenneth Tang
 **Developer. Designer. Data Scientist.**
 
-Full-stack developer with experience in data science, cybersecurity, and machine learning.
+Hi! I'm Kenny, a full-stack developer with experience in data science, machine learning, and cybersecurity. Currently a first-year student at UCLA, looking for career opportunities in full-stack or frontend development and AI/ML.
 
 #### Language and Frameworks
 
