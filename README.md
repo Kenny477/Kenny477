@@ -38,9 +38,9 @@ Hi! I'm Kenny, a full-stack developer with experience in data science, machine l
 ![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Design
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-black.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-black.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-black.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-black.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
 <!-- [![Kenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kenny477)](https://github.com/anuraghazra/github-readme-stats) -->
 
