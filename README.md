@@ -4,8 +4,8 @@
 Full-stack developer with experience in data science, cybersecurity, and machine learning.
 
 #### Contact Me
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-Contact me at <kenneth.j.tang@gmail.com> for any business inquiries.
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:kenneth.j.tang@gmail.com)
+
 
 #### Language and Frameworks
 
