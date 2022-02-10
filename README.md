@@ -16,6 +16,7 @@ Hi! I'm Kenny, a full-stack developer with experience in data science, machine l
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 <br>
 ![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-black.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
 
@@ -34,7 +35,6 @@ Hi! I'm Kenny, a full-stack developer with experience in data science, machine l
 ![R](https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-black.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Scala](https://img.shields.io/badge/scala-black.svg?style=for-the-badge&logo=scala&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Design
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-black.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
