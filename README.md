@@ -27,9 +27,9 @@ Hi! I'm Kenny, a full-stack developer with experience in data science, machine l
 ##### OOP
 ![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ##### Currently Learning
-![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-black.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![R](https://img.shields.io/badge/r-black.svg?style=for-the-badge&logo=r&logoColor=white)
