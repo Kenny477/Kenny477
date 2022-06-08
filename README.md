@@ -23,3 +23,4 @@ Hi! I'm Kenneth, a full-stack developer with experience in data science, machine
 ![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-black.svg?style=for-the-badge&logo=ruby&logoColor=white)
