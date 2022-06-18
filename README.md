@@ -2,7 +2,7 @@
 
 Full-stack dev, data scientist, and designer. 
 
-Technologies I'm actively involved with:
+Technologies I'm currently using and/or learning:
 
 ![Solid JS](https://img.shields.io/badge/Solid-black?style=for-the-badge&logo=solid&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
