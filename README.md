@@ -3,6 +3,7 @@
 Full-stack dev, data scientist, and designer. 
 
 Technologies I'm currently using and exploring:
+
 ![Astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white)
 ![Solid JS](https://img.shields.io/badge/Solid-black?style=for-the-badge&logo=solid&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
