@@ -4,26 +4,25 @@ Full-stack dev, data scientist, and designer.
 
 Technologies I'm currently using and exploring:
 
-[![Astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white)](https://astro.build/)
-[![Solid JS](https://img.shields.io/badge/Solid-black?style=for-the-badge&logo=solid&logoColor=white)](https://www.solidjs.com/)
-[![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![Nuxt JS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
-[![Svelte](https://img.shields.io/badge/svelte-black.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
-[![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+<a href="https://astro.build/" target="_blank">![Astro](https://img.shields.io/badge/Astro-black?style=for-the-badge&logo=astro&logoColor=white)</a>
+<a href="https://www.solidjs.com/" target="_blank">![Solid JS](https://img.shields.io/badge/Solid-black?style=for-the-badge&logo=solid&logoColor=white)</a>
+<a href="https://nextjs.org/" target="_blank">![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</a>
+<a href="https://nuxtjs.org/" target="_blank">![Nuxt JS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)</a>
+<a href="https://svelte.dev/" target="_blank">![Svelte](https://img.shields.io/badge/svelte-black.svg?style=for-the-badge&logo=svelte&logoColor=white)</a>
+<a href="https://reactjs.org/" target="_blank">![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=white)</a>
+<a href="https://tailwindcss.com/" target="_blank">![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</a>
 <br>
-[![TailwindCSS](https://img.shields.io/badge/tailwindcss-black.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <br>
-[![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-<br>
-[![Ruby On Rails](https://img.shields.io/badge/rails-black.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org/)
-[![WebAssembly](https://img.shields.io/badge/wasm-black.svg?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org/)
+<a href="https://rubyonrails.org/" target="_blank">![Ruby On Rails](https://img.shields.io/badge/rails-black.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)</a>
+<a href="https://webassembly.org/" target="_blank">![WebAssembly](https://img.shields.io/badge/wasm-black.svg?style=for-the-badge&logo=webassembly&logoColor=white)
 
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Scala](https://img.shields.io/badge/scala-black.svg?style=for-the-badge&logo=scala&logoColor=white)](https://www.scala-lang.org/)
-[![Julia](https://img.shields.io/badge/julia-black.svg?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
+<a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=white)</a>
+<a href="https://www.scala-lang.org/" target="_blank">![Scala](https://img.shields.io/badge/scala-black.svg?style=for-the-badge&logo=scala&logoColor=white)</a>
+<a href="https://julialang.org/" target="_blank">![Julia](https://img.shields.io/badge/julia-black.svg?style=for-the-badge&logo=julia&logoColor=white)</a>
 
 ![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-[![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-[![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
-[![Ruby](https://img.shields.io/badge/ruby-black.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
-[![Rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+<a href="https://www.java.com/en/" target="_blank">![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=java&logoColor=white)</a>
+<a href="https://go.dev/" target="_blank">![Go](https://img.shields.io/badge/go-black.svg?style=for-the-badge&logo=go&logoColor=white)</a>
+<a href="https://www.ruby-lang.org/en/" target="_blank">![Ruby](https://img.shields.io/badge/ruby-black.svg?style=for-the-badge&logo=ruby&logoColor=white)</a>
+<a href="https://www.rust-lang.org/" target="_blank">![Rust](https://img.shields.io/badge/rust-black.svg?style=for-the-badge&logo=rust&logoColor=white)</a>
